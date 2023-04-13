@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 *   🌍  I'm based in Buenos Aires, Argentina.
-*   ✉️  You can contact me at [peryycanape5@gmail.com](mailto:peryycanape5@gmail.com)
+*   ✉️  You can contact me at [agusplatero@hotmail.com](mailto:agusplatero@hotmail.com)
 *   🤝  I'm open to collaborating on Front-end Development.
 *   <h2>Languages and tools</H2> 
 <p align="left">
